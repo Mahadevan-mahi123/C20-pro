@@ -1,2 +1,2 @@
-# Cat-and-mouse-class20
+# C20 pro
 Cat chasing mouse and mouse teasing cat
